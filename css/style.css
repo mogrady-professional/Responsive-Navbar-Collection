@@ -25,7 +25,7 @@
 }
 
 .menu-btn {
-    position: absolute;
+    position: fixed;
     z-index: 2;
     right: 20px;
     /* left: 20px; */
@@ -63,6 +63,7 @@
 
 .wrapper ul li {
     margin: 15px 0;
+    width: 100vh;
 }
 
 .wrapper ul li a {

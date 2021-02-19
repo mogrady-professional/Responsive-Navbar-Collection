@@ -1,7 +1,7 @@
 # Responsive Navbar Collection
 
 A collection of projects with a specific focus on HTML and Styling in CSS. Version v1.0.
-Enables the usage of these products as quick-start boiler plates for projects.
+I often use these Projects as quick-start boiler plates for projects.
 Explore the Projects using the Website Portal below.
 The Portal page is based on the Overlord Full-Screen Navigation Menu.
 
