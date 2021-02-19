@@ -62,6 +62,7 @@
 
 .wrapper ul li {
     margin: 15px 0;
+    width: 100vh;
 }
 
 .wrapper ul li a {
