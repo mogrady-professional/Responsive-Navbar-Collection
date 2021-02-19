@@ -12,10 +12,10 @@ The Portal page is based on the Overlord Full-Screen Navigation Menu.
 
 ### Unique Project Points
 
-> HTML input and label tags used to show / hide nav bar's (without the reliance on JavaScript);
+> HTML input and label tags used to show / hide nav bar's (without the reliance on JavaScript)
 
 > When input checkbox is checked menu bar(s) are shown | when the checkbox(s) is not checked menu bars hidden using btn:checked~
 
 ### Task List
 
-- [] Continue to Build on Existing Collection of Navigation Menu's
+- [ ] Continue to Build on Existing Collection of Navigation Menu's
