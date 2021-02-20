@@ -92,11 +92,18 @@ body {
     display: none;
 }
 
-@media only screen and (min-width: 847px) and (max-width: 1112px) {
+@media only screen and (max-width: 1205px) and (min-width: 820px) {
     .wrapper {
         height: 60px;
         width: 80vw;
-        line-height: 60x;
+    }
+}
+
+@media only screen and (min-width: 511px) and (max-width: 819px) {
+    .wrapper {
+        height: 60px;
+        width: 60vw;
+        line-height: 60px;
         border-radius: 50px;
         box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
     }
