@@ -6,7 +6,7 @@ Explore the Projects using the Website Portal below.
 The Portal page is based on the Overlord Full-Screen Navigation Menu.
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/Responsive-Navbar-Collection">
-<a href="https://mogrady-git.github.io/Responsive-Navbar-Collection/"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
+<a href="https://mogrady-professional.github.io/Responsive-Navbar-Collection/"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
 
 ## Emphasis of this project is on building hand-coded Menu's and Navigation bars and avoiding the use of Bootstrap or JavaScript
 
