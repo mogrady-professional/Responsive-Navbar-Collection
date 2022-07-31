@@ -1,21 +1,34 @@
-# Responsive Navbar Collection
+# Navbar Collection
 
-A collection of projects with a specific focus on HTML and Styling in CSS. Version v1.0.
-I often use these Projects as quick-start boiler plates for projects.
-Explore the Projects using the Website Portal below.
-The Portal page is based on the Overlord Full-Screen Navigation Menu.
+Collection of Navbars in HTML CSS.
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/Responsive-Navbar-Collection">
-<a href="https://mogrady-professional.github.io/Responsive-Navbar-Collection/"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
+> Emphasis of this project is on building hand-coded Navbar's avoiding the use of Bootstrap or JavaScript
 
-## Emphasis of this project is on building hand-coded Menu's and Navigation bars and avoiding the use of Bootstrap or JavaScript
+- [x] Static Blue
+- [x] Mega Menu
+- [x] Knight
+- [x] Mini Tab
+- [x] Overlord
 
-### Unique Project Points
-
-> HTML input and label tags used to show / hide nav bar's (without the reliance on JavaScript)
-
-> When input checkbox is checked menu bar(s) are shown | when the checkbox(s) is not checked menu bars hidden using btn:checked~
+<hr>
 
 ### Task List
 
-- [ ] Continue to Build on Existing Collection of Navigation Menu's
+- [ ] Continue to Build on Existing Collection of Navbar's
+
+<hr>
+
+# Footers
+
+<h1 align="center">
+Static Blue
+<img src="images/static-blue.png"  height="auto" width="100%">
+Mega Menu
+<img src="images/mega-menu.png"  height="auto" width="100%">
+Knight
+<img src="images/knight.png"  height="auto" width="100%">
+Mini Tab
+<img src="images/mini-tab.png"  height="auto" width="100%">
+Overlord
+<img src="images/overlord.png"  height="auto" width="100%">
+</h1>
